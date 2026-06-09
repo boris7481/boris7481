@@ -13,12 +13,19 @@ ISTQB Certified Software Test Engineer with more than 3 years of experience in S
 - Test Automation
 - Python
 - Playwright
+- Pytest
+- Postman
+- Docker
+- Machine learning
 - API Testing
 - SQL
 - Jira
 - Xray
 - Git
 - GitLab CI/CD
+- Confluence
+- Sonarqube
+- SAP
 - ECU-Test
 
 ## Certifications
