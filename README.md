@@ -1,4 +1,4 @@
-# Hi, I'm Cynthia Tondjua
+# Hi, I'm Boris Thibaut Tondjua
 
 ISTQB Certified Software Test Engineer with more than 3 years of experience in Software Testing and Quality Assurance.
 
